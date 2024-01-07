@@ -1,0 +1,12 @@
+C:\Users\ethan\source\repos\PocketWatcher\LethalCompanyTemplate\bin\Debug\netstandard2.1\PocketWatcher.deps.json
+C:\Users\ethan\source\repos\PocketWatcher\LethalCompanyTemplate\bin\Debug\netstandard2.1\PocketWatcher.dll
+C:\Users\ethan\source\repos\PocketWatcher\LethalCompanyTemplate\bin\Debug\netstandard2.1\PocketWatcher.pdb
+C:\Users\ethan\source\repos\PocketWatcher\LethalCompanyTemplate\obj\Debug\netstandard2.1\PocketWatcher.csproj.AssemblyReference.cache
+C:\Users\ethan\source\repos\PocketWatcher\LethalCompanyTemplate\obj\Debug\netstandard2.1\PluginInfo.cs
+C:\Users\ethan\source\repos\PocketWatcher\LethalCompanyTemplate\obj\Debug\netstandard2.1\PocketWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\source\repos\PocketWatcher\LethalCompanyTemplate\obj\Debug\netstandard2.1\PocketWatcher.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\PocketWatcher\LethalCompanyTemplate\obj\Debug\netstandard2.1\PocketWatcher.AssemblyInfo.cs
+C:\Users\ethan\source\repos\PocketWatcher\LethalCompanyTemplate\obj\Debug\netstandard2.1\PocketWatcher.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\PocketWatcher\LethalCompanyTemplate\obj\Debug\netstandard2.1\PocketWatcher.sourcelink.json
+C:\Users\ethan\source\repos\PocketWatcher\LethalCompanyTemplate\obj\Debug\netstandard2.1\PocketWatcher.dll
+C:\Users\ethan\source\repos\PocketWatcher\LethalCompanyTemplate\obj\Debug\netstandard2.1\PocketWatcher.pdb
