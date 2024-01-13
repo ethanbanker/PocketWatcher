@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("#1 Pocket Watcher")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43206f0475d7dae18e393eaa115cfd192399712f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PocketWatcher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PocketWatcher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
